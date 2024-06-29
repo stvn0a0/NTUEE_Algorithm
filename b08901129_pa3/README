@@ -1,0 +1,30 @@
+README file for Algorithm PA#3
+Author: B08901129 Wei-Han Chen
+Date: 16 January 2022
+=====
+SYNOPSIS:
+
+./bin/cb  <input_file_name> <output_file_name>
+
+This program breaks the cycle for directed/undirected and weighted/unweighted graphs. 
+=====
+DIRECTORY:
+
+bin/	  executable binary
+doc/	  reports
+lib/	  library
+src/ 	  source C++ codes
+utility/  checker
+======
+HOW TO COMPILE:
+To compile just type the following letter and press enter;
+	make
+======
+HOW TO RUN:
+	./bin/cb <input_file_name> <output_file_name>
+	For example,
+	under <student_id>_pa3
+	./bin/cb inputs/public_case_1.in outputs/public_case_1.out
+======
+OTHER NOTICE:
+
